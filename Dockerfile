@@ -1,1 +1,1 @@
-From gcr.io/heptio-images/contour:v0.6.1
+From gcr.io/spark-operator/spark-operator:v2.4.0-v1beta1-0.9.0
