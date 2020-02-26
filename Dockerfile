@@ -1,1 +1,1 @@
-From $image
+From gcr.io/heptio-images/contour:v0.6.1
